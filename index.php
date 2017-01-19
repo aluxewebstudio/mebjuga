@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 <main class="main_block_page">
 
-    sdfsdf sdf sdf sdf sadf asdf asdf
+   dghdfhdfh
     <!--<div class="my_gallery">
         <figure>
             <a href="https://farm3.staticflickr.com/2567/5697107145_a4c2eaa0cd_o.jpg" data-size="1024x1024">
