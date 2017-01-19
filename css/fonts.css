@@ -1,0 +1,13 @@
+/* font-family: "GeometriaHeavy"; 
+@font-face {
+    font-family: 'GeometriaHeavy';
+    src: url('../fonts/Geometria-Heavy/GeometriaHeavy.eot');
+    src: url('../fonts/Geometria-Heavy/GeometriaHeavy.eot') format('embedded-opentype'),
+         url('../fonts/Geometria-Heavy/GeometriaHeavy.woff2') format('woff2'),
+         url('../fonts/Geometria-Heavy/GeometriaHeavy.woff') format('woff'),
+         url('../fonts/Geometria-Heavy/GeometriaHeavy.ttf') format('truetype'),
+         url('../fonts/Geometria-Heavy/GeometriaHeavy.svg#GeometriaHeavy') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
+*/
