@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 <main class="main_block_page">
-ігор лох
+івфаіфваіфвафі
 
     <!--<div class="my_gallery">
         <figure>
